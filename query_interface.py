@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Paul Khawaja
-INLS570
-Project Phase 2 - Query Interface
 """
 import re
 import math
